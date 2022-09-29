@@ -1,0 +1,14 @@
+.alert{
+    display: flex;
+    height: 50px;
+    width: 20rem;
+    background-color: rgb(158, 241, 158);
+    border-radius: 10px;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    top: 3.8rem;
+    left: 10px;
+    z-index:12;
+}
+
